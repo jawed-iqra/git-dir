@@ -12,8 +12,8 @@ function getDate(){
     return dob;
 }
 
-function ageFactor(){
-    return ageFactor >= 20;
+function age(){
+    return age >= 20;
 }
 
 
